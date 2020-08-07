@@ -2,18 +2,13 @@
 
 Here is some text. I want to make a [link](https://google.com).
 
-1. Here is a list
-2. Second item
-3. *third item*
-
-* Bulleted list
-* Second
-* third
+ICE only tracks records of solitary confinement for one of two reasons:
+* If the detainee is held in isolation for more than 14 days
+* If the detainee has a "special vulnerability" in isolation
 
 ![Picture of cat](http://placekitten.com/400/300)
 
 Here is some text.
-More text
 
 The formula I used was
 
