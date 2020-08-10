@@ -44,11 +44,9 @@ I also wanted to explore any trends from the LGBTQ+ incident reports, so I creat
 
 According to this chart, the most isolations due to LGBT reasons occur in Louisiana, which is not surprising considering conservative values of the South, and California, which is pretty unexpected from a state known for its liberalism. Another interesting thing to note is that 50 out of 93 total isolations – _more than half_ – happened after the national legalization of same-sex marriage in 2015. 
 
-The majority of this data comes from Obama's years of presidency; only the data from the beginning of Trump's presidency of data is available but since Trump is strongly opinionated on undocumented immigrants I thought there might be an underlying message within the data collected – even during his first few months in office.
 
-I made two pivot tables to compare how many times an ICE officer placed a detainee in solitary confinement for mental illness because I think that seems like an easy excuse to isolate someone, whether or not the individual is mentally unstable. I decided to plot the points on a scatter chart and calculate the rate of detainees isolated for mental illness during both Obama's and Trump's presidencies so that I could compare the two and see if ICE officers were isolating detainees at a quicker rate. The time range I used for the Obama pivot table is the beginning of the data (2012) to the end of Obama's time in office (Dec. 31, 2016). For the Trump pivot table, I used the day he took office (Jan. 01, 2017) to the last date in the dataset (Dec. 03, 2017).
 
-INSERT SCREENSHOT OF PIVOT TABLES?
+Lastly, I wanted to look at which placement reasons justified the incidents of solitary confinement that lasted 6 months or more (about 180 days). I sorted the number of days solitary column in descending order to make this line chart.
 
 INSERT SCATTERPLOTS
 
