@@ -4,7 +4,7 @@
 
 ### The International Consortium of Investigative Journalists (ICIJ) released [data](icij-solitary-voices-final-dataset-for-publication.csv) of nearly 8500 Immigration and Customs Enforcement detention incident reports from 2012 to 2017. This data set taught me that ICE yields more power than I realized – especially in under Trump's administration. The scope of its authority allows its officers to isolate detainees for essentially any reason without justification. These reasons are often rooted in racial discrimination and other personal beliefs. 
 
-### As I interrogated and analyzed the data, I noticed certain trends in the detention centers in different states. Overall, I learned about the process of solitary confinement and ICE's corrosive objectivity at the forefront of the detention centers.
+### As I interrogated and analyzed the data, I noticed certain trends in the detention centers in different states. Overall, I learned more about the process of solitary confinement and ICE's corrosive objectivity at the forefront of the detention centers.
 
 I obtained this data from the International Consortium of Investigative Journalists (ICIJ) that was attached in their [article published in 2019](https://www.icij.org/investigations/solitary-voices/about-the-solitary-voices-data/). After I downloaded the CSV file, I imported it into Google Sheets and  used its functions to interrogate and analyze the data.
 
@@ -22,7 +22,9 @@ INSERT MAP OF AMERICA AND MOST COMMON PLACEMENT REASON IN EACH STATE/DETENTION C
 
 I created a pivot table to track the divisions of citizenship for each of these placement reasons. In 22/25 of the categories, detainees from Mexico reigned supreme as having the highest number of isolations, usually followed by El Salvadorians or other detainees from Central America. The only categories they did not count as the most cases are hunger strike, medical: detox/withdrawal, and protective custody for other detainee safety.
 
-jkh
+![image](https://user-images.githubusercontent.com/68294139/89754379-7cabc880-da90-11ea-900f-248b7eb47ce1.png)
+
+
 
 I was intrigued by the number of hunger strike and LGBTQ+ isolations since I did not know those could justify solitary confinement. I created a filter in Google Sheets on the placement reason column to show only the incident reports of hunger strikes in each detention center. I also organized the data according to date so it became a vertical timeline. 
 
