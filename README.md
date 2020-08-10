@@ -48,7 +48,9 @@ According to this chart, the most isolations due to LGBT reasons occur in Louisi
 
 Lastly, I wanted to look at which placement reasons justified the incidents of solitary confinement that lasted 6 months or more (about 180 days). I sorted the number of days solitary column in descending order to make this line chart.
 
-INSERT SCATTERPLOTS
+![image](https://user-images.githubusercontent.com/68294139/89815978-89650680-dafa-11ea-9f5a-621a9150934e.png)
+
+ANALYZE THIS!!!!!!!!!!!
 
 There are certainly plenty of unanswered questions in the data; what constitutes the "Other" category? What did the LGBTQ+ detainees do to deserve solitary confinement? Why are the hunger strikers being punished for their personal expression?
 
