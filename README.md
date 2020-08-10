@@ -34,7 +34,7 @@ Out of the total 182 isolations from hunger strikes in this dataset, 57 of them 
 
 I also wanted to explore any trends from the LGBTQ+ incident reports so I created another pivot table to count the frequencies of isolations for "protective custody" in different states. I then created the following donut chart to show the total occurrences in the nation's detention centers.
 
-![image](https://user-images.githubusercontent.com/68294139/89746914-15325080-da71-11ea-9351-4b10dc08e3d9.png) 
+![image](https://user-images.githubusercontent.com/68294139/89746855-c4225c80-da70-11ea-8e39-8bc18f64cca9.png) 
 
 According to this chart, the most isolations due to LGBT reasons occur in Louisiana, which is not surprising considering conservative values of the South, and California, which is pretty unexpected from a state known for its liberalism. Another interesting thing to note is that 50 out of 93 total isolations – _more than half_ – happened after the national legalization of same-sex marriage in 2015. 
 
