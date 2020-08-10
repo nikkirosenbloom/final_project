@@ -1,4 +1,4 @@
-# Most ICE Detainees Face Solitary Confinement in Detention Centers for Disciplinary Reasons. But Why Are Other Detainees Subject to Extreme Isolation?
+# Expanding Federal Power Over ICE Detainees in Detention Centers
 
 ## Final Project for Nikki Rosenbloom
 
@@ -42,7 +42,7 @@ According to this chart, the most isolations due to LGBT reasons occur in Louisi
 
 The majority of this data comes from Obama's years of presidency; only the data from the beginning of Trump's presidency of data is available but since Trump is strongly opinionated on undocumented immigrants I thought there might be an underlying message within the data collected – even during his first few months in office.
 
-I made two pivot tables to compare how many times an ICE officer placed a detainee in solitary confinement for mental illness because I think that seems like an easy excuse to isolate someone, whether or not the individual is mentally unstable. I decided to plot the points on a scatter chart and calculate the rate of detainees isolated for mental illness during both Obama's and Trump's presidencies so that I could compare the two and see if ICE officers were isolating detainees at a quicker rate. The time range I used for the Obama pivot table is the beginning of the data (2012) to the end of Obama's time in office (Dec. 31, 2016). For the Trump pivot table, I used the day he took office (Jan. 01, 2017) to the last date in the dataset (LOOKUP DATE JULY SOMETHING).
+I made two pivot tables to compare how many times an ICE officer placed a detainee in solitary confinement for mental illness because I think that seems like an easy excuse to isolate someone, whether or not the individual is mentally unstable. I decided to plot the points on a scatter chart and calculate the rate of detainees isolated for mental illness during both Obama's and Trump's presidencies so that I could compare the two and see if ICE officers were isolating detainees at a quicker rate. The time range I used for the Obama pivot table is the beginning of the data (2012) to the end of Obama's time in office (Dec. 31, 2016). For the Trump pivot table, I used the day he took office (Jan. 01, 2017) to the last date in the dataset (Dec. 03, 2017).
 
 INSERT SCREENSHOT OF PIVOT TABLES?
 
