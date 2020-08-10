@@ -1,12 +1,12 @@
-# Expanding Federal Power Over ICE Detainees in Detention Centers
+# The Expansive Federal Power Over ICE Detainees
 
 ## Final Project for Nikki Rosenbloom
 
-### The International Consortium of Investigative Journalists (ICIJ) released [data](icij-solitary-voices-final-dataset-for-publication.csv) of nearly 8500 Immigration and Customs Enforcement detention incident reports from 2012 to 2017. This data set taught me that ICE yields more power than I realized – especially in under Trump's administration. The scope of its authority allows its officers to isolate detainees for essentially any reason without justification. These reasons are often rooted in racial discrimination and other personal beliefs. 
+### The International Consortium of Investigative Journalists (ICIJ) released [data](icij-solitary-voices-final-dataset-for-publication.csv) of nearly 8500 Immigration and Customs Enforcement detention incident reports from 2012 to 2017. This data set taught me that ICE yields more power than I realized. The scope of its authority allows its officers to isolate detainees for essentially any reason without justification. These reasons are often rooted in racial discrimination and other personal beliefs. 
 
 ### As I interrogated and analyzed the data, I noticed certain trends in the detention centers in different states. Overall, I learned more about the process of solitary confinement and ICE's corrosive objectivity at the forefront of the detention centers.
 
-I obtained this data from the International Consortium of Investigative Journalists (ICIJ) that was attached in their [article published in 2019](https://www.icij.org/investigations/solitary-voices/about-the-solitary-voices-data/). After I downloaded the CSV file, I imported it into Google Sheets and  used its functions to interrogate and analyze the data.
+I obtained this data from the International Consortium of Investigative Journalists (ICIJ) that was attached in their [article published in 2019](https://www.icij.org/investigations/solitary-voices/about-the-solitary-voices-data/). After I downloaded the CSV file, I imported it into Google Sheets and used its functions to interrogate and analyze the data.
 
 ICE only tracks records of solitary confinement for two reasons:
 1. If the detainee is held in isolation for more than 14 days
@@ -50,7 +50,12 @@ Lastly, I wanted to look at which placement reasons justified the incidents of s
 
 ![image](https://user-images.githubusercontent.com/68294139/89815978-89650680-dafa-11ea-9f5a-621a9150934e.png)
 
-ANALYZE THIS!!!!!!!!!!!
+The four categories with notably high averages are Facility Security Threat: Due to Seriousness, Protective Custody: Criminal Offense, Protective Custody: Gang Member Status, and Other. Unfortunately, we do not have more information about what "seriousness" or "other" entails and why it leads to longer periods of solitary confinement. Clearly the ICE officers are hiding the truth from us by waiving these incidents into these arbitrary categories.
+
+Though these four categories come at somewhat a surprise, the other averages are relatively high for their placement reasons. For instance, the averages of solitary confinement due to mental illness and suicide risk are alarmingly high; the idea of isolating someone with supposed mental illness or thoughts of physical harm is contrary to the psychological treatment the individual needs.
+
+
+
 
 There are certainly plenty of unanswered questions in the data; what constitutes the "Other" category? What did the LGBTQ+ detainees do to deserve solitary confinement? Why are the hunger strikers being punished for their personal expression?
 
