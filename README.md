@@ -22,9 +22,11 @@ INSERT MAP OF AMERICA AND MOST COMMON PLACEMENT REASON IN EACH STATE/DETENTION C
 
 I created a pivot table to track the divisions of citizenship for each of these placement reasons. In 22/25 of the categories, detainees from Mexico reigned supreme as having the highest number of isolations, usually followed by El Salvadorians or other detainees from Central America. The only categories they did not count as the most cases are hunger strike, medical: detox/withdrawal, and protective custody for other detainee safety.
 
+jkh
+
 I was intrigued by the number of hunger strike and LGBTQ+ isolations since I did not know those could justify solitary confinement. I created a filter in Google Sheets on the placement reason column to show only the incident reports of hunger strikes in each detention center. I also organized the data according to date so it became a vertical timeline. 
 
-INSERT SCREENSHOT OF FILTERS???
+![image](https://user-images.githubusercontent.com/68294139/89754279-263e8a00-da90-11ea-91b5-59495a883a33.png)
 
 I noticed the isolations for hunger strikes occurred predominantly in Atlanta, Georgia – specifically, the Stewart and Irvin County detention centers. I used the following formula in the state column to count how many of the hunger strike isolations were in GA detention centers: 
 
