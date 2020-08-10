@@ -18,7 +18,7 @@ The following bar chart breaks down the 8489 reported cases of solitary confinem
 
 I wanted to see how reasons for solitary confinement varied in each detention center listed in the dataset so I created a pivot table to break down the reasons and used it to make a map in Datawrapper. Since "Disciplinary" was almost always the most frequent reason for isolation I decided to make a map of the second-most frequent placement reason.
 
-INSERT MAP OF AMERICA AND MOST COMMON PLACEMENT REASON IN EACH STATE/DETENTION CENTER WHICHEVER ONE IS EASIER???
+![image](https://user-images.githubusercontent.com/68294139/89807470-8283c700-daed-11ea-982d-3ed9ac07522a.png)
 
 I created a pivot table to track the divisions of citizenship for each of these placement reasons. In 22/25 of the categories, detainees from Mexico reigned supreme as having the highest number of isolations, usually followed by El Salvadorians or other detainees from Central America. The only categories they did not count as the most cases are hunger strike, medical: detox/withdrawal, and protective custody for other detainee safety.
 
