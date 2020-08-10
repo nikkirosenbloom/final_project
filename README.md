@@ -1,4 +1,4 @@
-# Most ICE Detainees Face Solitary Confinement for Disciplinary Reasons. But What Role Do Their Identities Play In It?
+# Most ICE Detainees Face Solitary Confinement in Detention Centers for Disciplinary Reasons. But Why Are Other Detainees Subject to Extreme Isolation?
 
 ## Final Project for Nikki Rosenbloom
 
@@ -34,7 +34,7 @@ I noticed the isolations for hunger strikes occurred predominantly in Atlanta, G
 
 Out of the total 182 isolations from hunger strikes in this dataset, 57 of them occurred at the Stewart Detention Center _in 2016 alone_. Both GA detention centers accounted for 79/182 isolations, or 43.4%, from 2012-2017. This history of isolations from hunger strikes is interesting to note because the Stewart Detention Center has had a rise in hunger strikes amid the COVID pandemic this year. Although we do not know why hunger strikes are more frequent in these detention centers, the data casts a light on the different behaviors of ICE officers and detainees compared to other detention centers: that Atlanta ICE officers generally do not support the freedom of expression via hunger strikes.
 
-I also wanted to explore any trends from the LGBTQ+ incident reports so I created another pivot table to count the frequencies of isolations for "protective custody" in different states. I then created the following donut chart to show the total occurrences in the nation's detention centers.
+I also wanted to explore any trends from the LGBTQ+ incident reports, so I created another pivot table to count the frequencies of isolations for "protective custody" in different states. I then created the following donut chart to show the total occurrences in the nation's detention centers.
 
 ![image](https://user-images.githubusercontent.com/68294139/89746855-c4225c80-da70-11ea-8e39-8bc18f64cca9.png) 
 
