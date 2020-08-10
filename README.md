@@ -1,6 +1,6 @@
 # The Expansive Federal Power Over ICE Detainees
 
-## Final Project for Nikki Rosenbloom
+## By Nikki Rosenbloom
 
 ### The International Consortium of Investigative Journalists (ICIJ) released [data](icij-solitary-voices-final-dataset-for-publication.csv) of nearly 8500 Immigration and Customs Enforcement detention incident reports from 2012 to 2017. This data set taught me that ICE yields more power than I realized. The scope of its authority allows its officers to isolate detainees for essentially any reason without justification. These reasons are often rooted in racial discrimination and other personal beliefs. 
 
