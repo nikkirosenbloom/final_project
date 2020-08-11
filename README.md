@@ -1,4 +1,4 @@
-# The Expansive Federal Power Over ICE Detainees
+# A Magnified Look Into ICE Solitary Confinement Placement Reasons
 
 ## By Nikki Rosenbloom
 
