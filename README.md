@@ -1,8 +1,8 @@
-# A Magnified Look Into ICE Solitary Confinement Placement Reasons
+# ICE Solitary Confinement: The Result of Racism, Homophobia, and Power Dynamics
 
 ## By Nikki Rosenbloom
 
-### The International Consortium of Investigative Journalists (ICIJ) released [data](icij-solitary-voices-final-dataset-for-publication.csv) of nearly 8500 Immigration and Customs Enforcement detention incident reports from 2012 to 2017. This data set taught me that ICE yields more power than I realized. The scope of its authority allows its officers to isolate detainees for essentially any reason without justification. These reasons are often rooted in racial discrimination and other personal beliefs. 
+### The International Consortium of Investigative Journalists (ICIJ) released [data](icij-solitary-voices-final-dataset-for-publication.csv) of nearly 8500 Immigration and Customs Enforcement detention incident reports from 2012 to 2017. This data set taught me that ICE yields more power than I realized. The magnitude of its authority allows its officers to isolate detainees for essentially any reason without justification. These reasons are often rooted in racial discrimination and other personal beliefs. 
 
 ### As I interrogated and analyzed the data, I noticed certain trends in the detention centers in different states. Overall, I learned more about the process of solitary confinement and ICE's corrosive objectivity at the forefront of the detention centers.
 
@@ -52,11 +52,11 @@ Lastly, I wanted to look at which placement reasons justified the incidents of s
 
 The four categories with notably high averages are Facility Security Threat: Due to Seriousness, Protective Custody: Criminal Offense, Protective Custody: Gang Member Status, and Other. Unfortunately, we do not have more information about what "seriousness" or "other" entails and why it leads to longer periods of solitary confinement. Clearly the ICE officers are hiding the truth from us by waiving these incidents into these arbitrary categories.
 
-Though these four categories come at somewhat a surprise, the other averages are relatively high for their placement reasons. For instance, the averages of solitary confinement due to mental illness and suicide risk are alarmingly high; the idea of isolating someone with supposed mental illness or thoughts of physical harm is contrary to the psychological treatment the individual needs.
+Though these four categories are somewhat surprising, the other averages are relatively high for their placement reasons. For instance, the averages of solitary confinement due to mental illness and suicide risk are alarmingly high; the idea of isolating someone with supposed mental illness or thoughts of physical harm seems like the opposite of the psychological treatment the individual needs.
 
 
 
 
-There are certainly plenty of unanswered questions in the data; what constitutes the "Other" category? What did the LGBTQ+ detainees do to deserve solitary confinement? Why are the hunger strikers being punished for their personal expression?
+There are still plenty of unanswered questions in the data; what constitutes the "Other" category? What did the LGBTQ+ detainees do to deserve solitary confinement? Why are the hunger strikers being punished for their personal expression?
 
-This dataset is just the start of a further investigation into ICE detention centers and the process and logistics of solitary confinement. Now that the groundwork is accessible and publicized, it is up to us to expose the federal officers for their wilting objectivity and radical treatment of the detainees.
+This dataset is just the start of a further investigation into ICE detention centers and the process and logistics of solitary confinement. Now that some of the groundwork is accessible and publicized, it is up to us to expose the federal officers for their wilting objectivity and radical treatment of the detainees.
