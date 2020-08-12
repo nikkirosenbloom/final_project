@@ -12,11 +12,17 @@ ICE only tracks records of solitary confinement for two reasons:
 1. If the detainee is held in isolation for more than 14 days
 2. If the detainee has a "special vulnerability" in isolation
 
+### Distribution of Placement Reasons
+
 The following bar chart breaks down the 8489 reported cases of solitary confinement in ICE detention centers across the nation.
 
 ![Reasons for solitary confinement](https://user-images.githubusercontent.com/68294139/89715939-2dfe1180-d95e-11ea-963f-5616876bf1be.png)
 
+### Most Frequent Placement Reason in Each State After "Disciplinary"
+
 I wanted to see how reasons for solitary confinement varied in each detention center listed in the dataset so I created a pivot table to break down the reasons and used it to make a map in Datawrapper. Since "Disciplinary" was almost always the most frequent reason for isolation I decided to make a map of the second-most frequent placement reason.
+
+### The Role of Citizenship
 
 ![image](https://user-images.githubusercontent.com/68294139/89807470-8283c700-daed-11ea-982d-3ed9ac07522a.png)
 
@@ -28,6 +34,8 @@ I created a pivot table to track the divisions of citizenship for each of these 
 
 I was intrigued by the number of hunger strike and LGBTQ+ isolations and wanted to find out more details about their patterns regarding facility and citizenship. I created a filter in Google Sheets on the placement reason column to show only the incident reports of hunger strikes in each detention center. I also organized the data according to date so it essentially became a vertical timeline. 
 
+### Hunger Strike Isolations
+
 ![image](https://user-images.githubusercontent.com/68294139/89754279-263e8a00-da90-11ea-91b5-59495a883a33.png)
 
 I noticed the isolations for hunger strikes occurred predominantly in Atlanta, Georgia – specifically, the Stewart and Irvin County detention centers. I used the following formula in the state column to count how many of the hunger strike isolations were in GA detention centers: 
@@ -38,13 +46,15 @@ I noticed the isolations for hunger strikes occurred predominantly in Atlanta, G
 
 Out of the total 182 isolations from hunger strikes in this dataset, 57 of them occurred at the Stewart Detention Center _in 2016 alone_. Both GA detention centers accounted for 79/182 isolations, or 43.4%, from 2012-2017. This history of isolations from hunger strikes is interesting to note because the Stewart Detention Center has had a rise in hunger strikes amid the COVID pandemic this year. Although we do not know why hunger strikes are more frequent in these detention centers, the data casts a light on the different behaviors of ICE officers and detainees compared to other detention centers: that Atlanta ICE officers generally do not support the freedom of expression via hunger strikes.
 
+### LGBTQ+ Isolations
+
 I also wanted to explore any trends from the LGBTQ+ incident reports, so I created another pivot table to count the frequencies of isolations for "protective custody" in different states. I then created the following donut chart to show the total occurrences in the nation's detention centers.
 
 ![image](https://user-images.githubusercontent.com/68294139/89746855-c4225c80-da70-11ea-8e39-8bc18f64cca9.png) 
 
 According to this chart, the most isolations due to LGBT reasons occur in Louisiana, which is not surprising considering conservative values of the South, and California, which is pretty unexpected from a state known for its liberalism. Another interesting thing to note is that 50 out of 93 total isolations – _more than half_ – happened after the national legalization of same-sex marriage in 2015. 
 
-
+### Placement Reasons for Longest Periods of Isolation
 
 Lastly, I wanted to look at which placement reasons justified the incidents of solitary confinement that lasted 6 months or more (about 180 days). I sorted the number of days solitary column in descending order to make this line chart.
 
@@ -54,8 +64,7 @@ The four categories with notably high averages are Facility Security Threat: Due
 
 Though these four categories are somewhat surprising, the other averages are relatively high for their placement reasons. For instance, the averages of solitary confinement due to mental illness and suicide risk are alarmingly high; the idea of isolating someone with supposed mental illness or thoughts of physical harm seems like the opposite of the psychological treatment the individual needs.
 
-
-
+### Further Questions
 
 There are still plenty of unanswered questions in the data; what constitutes the "Other" category? What did the LGBTQ+ detainees do to deserve solitary confinement? Why are the hunger strikers being punished for their personal expression?
 
